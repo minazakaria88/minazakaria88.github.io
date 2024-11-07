@@ -77921,7 +77921,7 @@ A.IA.prototype={
 K(a){var s=null,r=A.dR(30),q=A.dR(20),p=A.b([B.aJ,B.cO],t.O)
 return new A.dL(B.GR,A.pe(!1,r,!0,A.eD(s,A.i9(A.b([B.I3,B.k_,A.dm("Whatsapp",s,s,A.at(a).p2.ax.QU(B.j,B.ah,1.2))],t.p),B.J,B.d_,B.A),B.w,s,s,new A.cC(s,s,s,q,B.iN,new A.hm(B.bb,B.bs,B.b3,p,s,s),B.a6),s,60,s,s,s,s,150),s,!0,s,s,s,s,s,s,s,s,s,new A.a1s(),s,s,s,s),s)}}
 A.a1s.prototype={
-$0(){A.ob(A.dA("https://wa.me/+20106468774",0,null))},
+$0(){A.ob(A.dA("https://wa.me/+201064687742",0,null))},
 $S:0}
 A.H5.prototype={
 K(a){var s=null
